@@ -1,0 +1,10 @@
+name: advance_dart
+version: 0.1.0
+description: Advanced Dart language features, patterns, and best practices.
+
+environment:
+  sdk: '>=3.7.2 <4.0.0'
+
+
+dev_dependencies:
+  test: ^1.24.0

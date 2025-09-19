@@ -1,0 +1,5 @@
+name: sample_package
+description: A sample Dart package for demonstration.
+version: 0.0.1
+environment:
+  sdk: '>=3.7.2 <4.0.0'
