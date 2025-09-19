@@ -28,7 +28,6 @@ dart run examples/async/future_example.dart
 ## Community & Style Guides
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Dart Style Guide](https://dart.dev/guides/language/style)
-- [Flutter Best Practices](https://docs.flutter.dev/development/data-and-backend/best-practices)
 
 ## GitHub Repository
 https://github.com/itsmelaxman/advance-dart
