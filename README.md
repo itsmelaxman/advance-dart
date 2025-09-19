@@ -2,11 +2,36 @@
 
 # advance-dart
 
-![Dart CI](https://github.com/your-username/advance-dart/actions/workflows/dart.yml/badge.svg)
+![Dart CI](https://github.com/itsmelaxman/advance-dart/actions/workflows/dart.yml/badge.svg)
+## Getting Started
+Browse the folders for code samples and documentation. Each section contains runnable examples and explanations.
+
+## Running Tests
+This project uses custom test directories. To run tests, use:
+
+```bash
+# Run all unit tests
+dart test tests/unit
+
+# Run all integration tests
+dart test tests/integration
+
+# Run all tests
+dart test tests/unit tests/integration
+```
+
+You can also run individual pattern/example files with:
+```bash
+dart run patterns/strategy.dart
+dart run examples/async/future_example.dart
+```
 ## Community & Style Guides
 - [Effective Dart](https://dart.dev/guides/language/effective-dart)
 - [Dart Style Guide](https://dart.dev/guides/language/style)
 - [Flutter Best Practices](https://docs.flutter.dev/development/data-and-backend/best-practices)
+
+## GitHub Repository
+https://github.com/itsmelaxman/advance-dart
 
 A curated collection of advanced Dart language features, design patterns, performance tips, and best practices. This repository is designed for Dart developers who want to deepen their understanding and master advanced concepts in Dart.
 
